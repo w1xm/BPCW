@@ -1,0 +1,12 @@
+Programming Adapter Pinout:
+
+
+SWDIO: Yellow
+SWCLK: Blue
+SRST: Purple
+3V3: Orange
+GND: Green
+
+Filter design:
+chebychev, 400-500MHz, 4th order, E12 for both L and C
+2dB of passband ripple, conventional, shunt first. 
